@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int main(){
 	int numberOfLanguages;
@@ -18,4 +18,4 @@ int main(){
 
 	return 0;
 
-}
+} 
