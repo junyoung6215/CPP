@@ -24,7 +24,7 @@ cin>> num;
 	//새로운 guess 계산하기 
 	guess=(guess+r)/2;
 	
-	cout<<"loop"<<endl;s
+	cout<<"loop"<<endl;
 	}
 	//결과 출력하기
 	cout<<"The square root of num is approximately "<<guess<<endl;
